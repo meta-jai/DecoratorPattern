@@ -1,0 +1,7 @@
+D:\Learning Goals\Q4-2019\Projects\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+D:\Learning Goals\Q4-2019\Projects\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+D:\Learning Goals\Q4-2019\Projects\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+D:\Learning Goals\Q4-2019\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csprojAssemblyReference.cache
+D:\Learning Goals\Q4-2019\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.CoreCompileInputs.cache
+D:\Learning Goals\Q4-2019\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+D:\Learning Goals\Q4-2019\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
